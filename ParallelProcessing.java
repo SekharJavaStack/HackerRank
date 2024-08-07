@@ -2,7 +2,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class ParallelProcessing {
 
     public static long minTime(List<Integer> files, int numCores, int limit) {
         List<Integer> x = new ArrayList<>();
