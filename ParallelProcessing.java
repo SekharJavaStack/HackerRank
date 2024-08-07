@@ -1,4 +1,4 @@
-//parallel Processing
+//Parallel Processing
 import java.io.*;
 import java.util.*;
 
